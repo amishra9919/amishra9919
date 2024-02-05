@@ -17,7 +17,7 @@ Hey there! 👋 I'm Arpit Mishra, a passionate learner in the fascinating realms
 Let's connect and explore the wonders of technology together! Feel free to reach out:
 
 - 📧 Email: arpitsuwashchandranmishra@gmail.com
-- 💼 LinkedIn: [Arpit Mishra](https://www.linkedin.com/in/arpitmishra/](https://www.linkedin.com/in/arpit-smishra/)
+- 💼 LinkedIn: [Arpit Mishra](https://www.linkedin.com/in/arpit-smishra/)
 
 ## Interests 🌈
 
