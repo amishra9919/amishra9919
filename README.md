@@ -1,16 +1,17 @@
 # Arpit Mishra 👨‍💻
 
-Hey there! 👋 I'm Arpit Mishra, a passionate learner in the fascinating realms of Artificial Intelligence and Data Science. Currently, I'm immersing myself in the world of AI and Data Science at Vidyavardhini's College of Engineering and Technology 🎓.
+Hey there! 👋 I'm Arpit Mishra, a passionate learner in the fascinating realms of Artificial Intelligence and Data Science. I've completed a Bachelor's Degree in AI and Data Science at Vidyavardhini's College of Engineering and Technology 🎓.
 
 ## About Me 🚀
 
 - 🤖 Enthusiast in Artificial Intelligence and Machine Learning.
 - 📊 Data Science Explorer, turning data into insights.
 - 🌐 Aspiring to make a positive impact through technology.
+- 📚 Lifelong learner, constantly seeking new knowledge and skills
 
 ## Education 📚
 
-- 🏫 Studying AI and Data Science at Vidyavardhini's College of Engineering and Technology.
+- 🏫 Completed Bachelor's Degree in AI and Data Science at Vidyavardhini's College of Engineering and Technology.
 
 ## Connect with Me 🌐
 
